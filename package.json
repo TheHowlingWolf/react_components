@@ -54,5 +54,6 @@
   "dependencies": {
     "clsx": "^1.1.1",
     "typescript": "^4.5.5"
-  }
+  },
+  "files": ["dist"]
 }
